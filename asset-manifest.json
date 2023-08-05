@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/repoName/static/css/main.0d4c74ab.css",
+    "main.js": "/repoName/static/js/main.4bd114c6.js",
+    "static/media/bg.jpg": "/repoName/static/media/bg.c866d607938d6048d5e1.jpg",
+    "index.html": "/repoName/index.html",
+    "main.0d4c74ab.css.map": "/repoName/static/css/main.0d4c74ab.css.map",
+    "main.4bd114c6.js.map": "/repoName/static/js/main.4bd114c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4c74ab.css",
+    "static/js/main.4bd114c6.js"
+  ]
+}
